@@ -71,18 +71,18 @@ The project follows a clean and scalable structure using:
 ## 📸 Screenshots
 
 ### 🔐 Login
-![Login](screenshots/login.jpeg)
+![Login](screenshots/Login.jpeg)
 
 ### 📝 Sign Up
-![Sign Up](screenshots/signup.jpeg)
+![Sign Up](screenshots/signUp.jpeg)
 
 ### 🏠 Home
-![Home](screenshots/home.jpeg)
+![Home](screenshots/homePage.jpeg)
 
 ### 🛒 Cart
 ![Cart](screenshots/cart.jpeg)
 
 ### 📦 Confirmation
-![Confirmation](screenshots/confirmation.jpeg)
+![Confirmation](screenshots/confirmation_order.jpeg)
 
 
